@@ -1,0 +1,30 @@
+---
+title: "About Me"
+subtitle: "MD Sourov Islam"
+---
+
+## পরিচিতি
+
+আমি **মোঃ সৌরভ ইসলাম (MD Sourov Islam)**। আমি খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (Khulna University of Engineering & Technology - KUET) থেকে **Electrical and Electronic Engineering (EEE)**-এ ব্যাচেলর অব সায়েন্স (B.Sc.) সম্পন্ন করেছি।
+
+---
+
+## বর্তমান ফোকাস ও শেখার যাত্রা
+
+ইঞ্জিনিয়ারিং ব্যাকগ্রাউন্ড থেকে ডেটা এবং অ্যালগরিদমের প্রতি গভীর আগ্রহের কারণে আমি বর্তমানে Data Science এবং Machine Learning ডোমেইনে নিবিড়ভাবে কাজ ও গবেষণা করছি।
+
+আমার নিয়মিত শেখা এবং কাজের মূল ক্ষেত্রসমূহ:
+- **Programming & Data Processing**: Python, SQL, Pandas, NumPy
+- **Analytics & Mathematics**: Exploratory Data Analysis (EDA), Applied Statistics, Linear Algebra, Calculus
+- **Machine Learning & Modeling**: Classical Machine Learning Algorithms, Scikit-Learn
+- **Deep Learning Foundations**: Neural Networks, Deep Learning Architectures
+
+---
+
+## প্ল্যাটফর্মের উদ্দেশ্য
+
+**Sourov.dev** তৈরির মূল উদ্দেশ্য হলো:
+1. **Learn**: নতুন প্রযুক্তি, গণিত এবং অ্যালগরিদমের মূল ভিত্তি গভীরভাবে আয়ত্ত করা।
+2. **Build**: বাস্তব ডেটাসেটের উপর ভিত্তি করে অর্থপূর্ণ প্রজেক্ট ও মডেল তৈরি করা।
+3. **Document**: শেখার প্রতিটি ধাপ এবং জটিল কনসেপ্ট সহজ বাংলায় নিখুঁতভাবে লিখে রাখা।
+4. **Share**: উন্মুক্ত সোর্স কোড ও নোটবুকের মাধ্যমে শিক্ষার্থী এবং ডেভেলপার কমিউনিটির সাথে অভিজ্ঞতা ভাগ করে নেওয়া।

@@ -1,0 +1,25 @@
+# Quarto temporary and build cache (docs/ is tracked for GitHub Pages)
+.quarto/
+_site/
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets & Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+/.quarto/
+**/*.quarto_ipynb

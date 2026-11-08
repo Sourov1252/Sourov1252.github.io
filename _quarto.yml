@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.ipynb"
+
+execute:
+  freeze: auto
+
+website:
+  title: "Sourov.dev"
+  site-url: "https://sourov1252.github.io"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Tutorials"
+        href: tutorials/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Notebook Lab"
+        href: notebooks/index.qmd
+      - text: "More"
+        menu:
+          - text: "Learning Log"
+            href: updates/index.qmd
+          - text: "Resources"
+            href: resources/index.qmd
+          - text: "Contact"
+            href: contact.qmd
+    tools:
+      - icon: github
+        href: "https://github.com/Sourov1252"
+        text: "GitHub"
+  page-footer:
+    left: "© 2026 Sourov.dev"
+    right: "Learn. Build. Document. Share."
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: true
+    code-copy: true
+    smooth-scroll: true
+    lang: en

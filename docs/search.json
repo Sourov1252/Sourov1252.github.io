@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "updates/index.html",
+    "href": "updates/index.html",
+    "title": "Learning Log & Updates",
+    "section": "",
+    "text": "প্রকৌশল ও ডেটা সায়েন্সের জগতে প্রতিনিয়ত নতুন প্রযুক্তি, ফ্রেমওয়ার্ক এবং অ্যালগরিদম উন্মোচিত হচ্ছে। Learning Log হলো আমার প্রতিদিনের শেখা, ছোট ছোট টেকনিক্যাল সমাধান, গবেষণার সারসংক্ষেপ এবং Sourov.dev প্ল্যাটফর্মের আপডেট নোটবুক।"
+  },
+  {
+    "objectID": "updates/index.html#ভমক",
+    "href": "updates/index.html#ভমক",
+    "title": "Learning Log & Updates",
+    "section": "",
+    "text": "প্রকৌশল ও ডেটা সায়েন্সের জগতে প্রতিনিয়ত নতুন প্রযুক্তি, ফ্রেমওয়ার্ক এবং অ্যালগরিদম উন্মোচিত হচ্ছে। Learning Log হলো আমার প্রতিদিনের শেখা, ছোট ছোট টেকনিক্যাল সমাধান, গবেষণার সারসংক্ষেপ এবং Sourov.dev প্ল্যাটফর্মের আপডেট নোটবুক।"
+  },
+  {
+    "objectID": "updates/index.html#লগর-মল-বষযবসত",
+    "href": "updates/index.html#লগর-মল-বষযবসত",
+    "title": "Learning Log & Updates",
+    "section": "লগের মূল বিষয়বস্তু",
+    "text": "লগের মূল বিষয়বস্তু\n\nToday I Learned (TIL): ছোট কিন্তু কার্যকরী কোডিং ট্রিকস এবং লাইব্রেরি ফাংশন\nReading Notes: বিভিন্ন রিসার্চ পেপার, টেকনিক্যাল বই এবং আর্টিকেলের সারসংক্ষেপ\nPlatform Updates: Sourov.dev পোর্টফোলিও এবং টিউটোরিয়াল সেকশনের নতুন সংযোজন\n\n\n\n\n\n\n\nNoteপ্রাথমিক পর্ব\n\n\n\nপ্রথম লার্নিং লগ এন্ট্রিগুলো সংকলন করা হচ্ছে। নিয়মিত আপডেট পেতে আমাদের সাথেই থাকুন।"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Data Science, Machine Learning, এবং Python প্রোগ্রামিং শেখার যাত্রায় সেরা রিসোর্সগুলো খুঁজে পাওয়া একটি বড় চ্যালেঞ্জ। Resources সেকশনে আমি এমন কিছু হ্যান্ডপিকড ও বিশ্বস্ত রেফারেন্স সংকলন করছি, যা শিক্ষার্থীদের সঠিক দিকনির্দেশনা দিতে সাহায্য করবে।"
+  },
+  {
+    "objectID": "resources/index.html#ভমক",
+    "href": "resources/index.html#ভমক",
+    "title": "Resources",
+    "section": "",
+    "text": "Data Science, Machine Learning, এবং Python প্রোগ্রামিং শেখার যাত্রায় সেরা রিসোর্সগুলো খুঁজে পাওয়া একটি বড় চ্যালেঞ্জ। Resources সেকশনে আমি এমন কিছু হ্যান্ডপিকড ও বিশ্বস্ত রেফারেন্স সংকলন করছি, যা শিক্ষার্থীদের সঠিক দিকনির্দেশনা দিতে সাহায্য করবে।"
+  },
+  {
+    "objectID": "resources/index.html#কউরটড-কযটগর",
+    "href": "resources/index.html#কউরটড-কযটগর",
+    "title": "Resources",
+    "section": "কিউরেটেড ক্যাটাগরি",
+    "text": "কিউরেটেড ক্যাটাগরি\n\nOfficial Documentations: Python, Scikit-Learn, Pandas, NumPy ও Quarto অফিসিয়াল ডকস\nRecommended Books: ডেটা সায়েন্স ও স্ট্যাটিস্টিক্সের মৌলিক বইয়ের তালিকা\nCheat Sheets: কোডিং ও সিনট্যাক্সের দ্রুত রিভিশনের জন্য প্রামাণ্য রেফারেন্স কার্ড\nOnline Learning Tracks: বিশ্বমানের ফ্রি কোর্স এবং ওপেন সোর্স ম্যাটেরিয়াল\n\n\n\n\n\n\n\nNoteরিসোর্স কিউরেশন\n\n\n\nরিসোর্সগুলোর তালিকা বর্তমানে যাচাই ও কিউরেশন করা হচ্ছে। নির্ভরযোগ্য লিংক এবং বিস্তারিত নোট সহ সম্পূর্ণ গাইড শীঘ্রই প্রকাশিত হবে।"
+  },
+  {
+    "objectID": "notebooks/index.html",
+    "href": "notebooks/index.html",
+    "title": "Notebook Lab",
+    "section": "",
+    "text": "Notebook Lab হলো বিভিন্ন ডেটা সায়েন্স এক্সপেরিমেন্ট, অ্যালগরিদম বাস্তবায়ন এবং কোডিং অনুশীলনের ইন্টারেক্টিভ Jupyter Notebook (.ipynb) কালেকশন।\nপ্রতিটি নোটবুকে থাকবে: - Open in Google Colab: এক ক্লিকেই ব্রাউজারে কোড রান ও এক্সপেরিমেন্ট করার সুবিধা। - View on GitHub: সম্পূর্ণ সোর্স কোড ও ভার্শন হিস্ট্রি পরিদর্শনের সুবিধা। - সংরক্ষিত আউটপুট এবং বিস্তারিত বাংলা সেল-বাই-সেল ব্যাখ্যা।"
+  },
+  {
+    "objectID": "notebooks/index.html#ভমক",
+    "href": "notebooks/index.html#ভমক",
+    "title": "Notebook Lab",
+    "section": "",
+    "text": "Notebook Lab হলো বিভিন্ন ডেটা সায়েন্স এক্সপেরিমেন্ট, অ্যালগরিদম বাস্তবায়ন এবং কোডিং অনুশীলনের ইন্টারেক্টিভ Jupyter Notebook (.ipynb) কালেকশন।\nপ্রতিটি নোটবুকে থাকবে: - Open in Google Colab: এক ক্লিকেই ব্রাউজারে কোড রান ও এক্সপেরিমেন্ট করার সুবিধা। - View on GitHub: সম্পূর্ণ সোর্স কোড ও ভার্শন হিস্ট্রি পরিদর্শনের সুবিধা। - সংরক্ষিত আউটপুট এবং বিস্তারিত বাংলা সেল-বাই-সেল ব্যাখ্যা।"
+  },
+  {
+    "objectID": "notebooks/index.html#লযব-সকশনসমহ",
+    "href": "notebooks/index.html#লযব-সকশনসমহ",
+    "title": "Notebook Lab",
+    "section": "ল্যাব সেকশনসমূহ",
+    "text": "ল্যাব সেকশনসমূহ\n\nPython & Data Wrangling: ডেটা ম্যানিপুলেশনের বাস্তব কোড উদাহরণ\nAlgorithm Implementations: স্ক্র্যাচ থেকে অ্যালগরিদম বাস্তবায়নের নোটবুক\nModel Training & Experiments: মেশিন লার্নিং মডেল এক্সপেরিমেন্ট ও হাইপারপ্যারামিটার টিউনিং\n\n\n\n\n\n\n\nNoteপ্রস্তুতি পর্ব\n\n\n\nপ্রথম ব্যাচের নোটবুকগুলো কিউরেশন ও টেস্ট করা হচ্ছে। টেস্ট সম্পন্ন হওয়া মাত্রই লাইভ নোটবুকগুলো এখানে যুক্ত করা হবে।"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "আমার সমস্ত কোডিং এক্সপেরিমেন্ট, প্রজেক্টের সোর্স কোড এবং লার্নিং রিপোজিটরি GitHub-এ উন্মুক্ত রয়েছে:\n\nGitHub: github.com/Sourov1252"
+  },
+  {
+    "objectID": "contact.html#সশযল-ও-ওপন-সরস-পলযটফরম",
+    "href": "contact.html#সশযল-ও-ওপন-সরস-পলযটফরম",
+    "title": "Contact",
+    "section": "",
+    "text": "আমার সমস্ত কোডিং এক্সপেরিমেন্ট, প্রজেক্টের সোর্স কোড এবং লার্নিং রিপোজিটরি GitHub-এ উন্মুক্ত রয়েছে:\n\nGitHub: github.com/Sourov1252"
+  },
+  {
+    "objectID": "contact.html#যগযগ-মধযম",
+    "href": "contact.html#যগযগ-মধযম",
+    "title": "Contact",
+    "section": "যোগাযোগ মাধ্যম",
+    "text": "যোগাযোগ মাধ্যম\nঅন্যান্য ভেরিফাইড পেশাদার যোগাযোগ মাধ্যমসমূহ (যেমন LinkedIn এবং প্রফেশনাল ইমেইল) শীঘ্রই এখানে যুক্ত করা হবে।\nযেকোনো টেকনিক্যাল ফিডব্যাক, বাগ রিপোর্ট বা আলোচনার জন্য GitHub Issues অথবা প্রোফাইলের মাধ্যমে যোগাযোগ করার আমন্ত্রণ রইল।"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "আমি মোঃ সৌরভ ইসলাম (MD Sourov Islam)। আমি খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (Khulna University of Engineering & Technology - KUET) থেকে Electrical and Electronic Engineering (EEE)-এ ব্যাচেলর অব সায়েন্স (B.Sc.) সম্পন্ন করেছি।"
+  },
+  {
+    "objectID": "about.html#পরচত",
+    "href": "about.html#পরচত",
+    "title": "About Me",
+    "section": "",
+    "text": "আমি মোঃ সৌরভ ইসলাম (MD Sourov Islam)। আমি খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (Khulna University of Engineering & Technology - KUET) থেকে Electrical and Electronic Engineering (EEE)-এ ব্যাচেলর অব সায়েন্স (B.Sc.) সম্পন্ন করেছি।"
+  },
+  {
+    "objectID": "about.html#বরতমন-ফকস-ও-শখর-যতর",
+    "href": "about.html#বরতমন-ফকস-ও-শখর-যতর",
+    "title": "About Me",
+    "section": "বর্তমান ফোকাস ও শেখার যাত্রা",
+    "text": "বর্তমান ফোকাস ও শেখার যাত্রা\nইঞ্জিনিয়ারিং ব্যাকগ্রাউন্ড থেকে ডেটা এবং অ্যালগরিদমের প্রতি গভীর আগ্রহের কারণে আমি বর্তমানে Data Science এবং Machine Learning ডোমেইনে নিবিড়ভাবে কাজ ও গবেষণা করছি।\nআমার নিয়মিত শেখা এবং কাজের মূল ক্ষেত্রসমূহ: - Programming & Data Processing: Python, SQL, Pandas, NumPy - Analytics & Mathematics: Exploratory Data Analysis (EDA), Applied Statistics, Linear Algebra, Calculus - Machine Learning & Modeling: Classical Machine Learning Algorithms, Scikit-Learn - Deep Learning Foundations: Neural Networks, Deep Learning Architectures"
+  },
+  {
+    "objectID": "about.html#পলযটফরমর-উদদশয",
+    "href": "about.html#পলযটফরমর-উদদশয",
+    "title": "About Me",
+    "section": "প্ল্যাটফর্মের উদ্দেশ্য",
+    "text": "প্ল্যাটফর্মের উদ্দেশ্য\nSourov.dev তৈরির মূল উদ্দেশ্য হলো: 1. Learn: নতুন প্রযুক্তি, গণিত এবং অ্যালগরিদমের মূল ভিত্তি গভীরভাবে আয়ত্ত করা। 2. Build: বাস্তব ডেটাসেটের উপর ভিত্তি করে অর্থপূর্ণ প্রজেক্ট ও মডেল তৈরি করা। 3. Document: শেখার প্রতিটি ধাপ এবং জটিল কনসেপ্ট সহজ বাংলায় নিখুঁতভাবে লিখে রাখা। 4. Share: উন্মুক্ত সোর্স কোড ও নোটবুকের মাধ্যমে শিক্ষার্থী এবং ডেভেলপার কমিউনিটির সাথে অভিজ্ঞতা ভাগ করে নেওয়া।"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sourov.dev",
+    "section": "",
+    "text": "স্বাগতম Sourov.dev-এ। এটি একটি ব্যক্তিগত পোর্টফোলিও এবং বাংলা টেকনিক্যাল লার্নিং প্ল্যাটফর্ম।\n\nএখানে Python প্রোগ্রামিং, SQL, Data Analytics, Statistics, Machine Learning এবং Deep Learning সম্পর্কিত বাস্তব প্রজেক্ট, টিউটোরিয়াল ও হ্যান্ডস-অন Jupyter Notebook নিয়মিত ডকুমেন্ট ও শেয়ার করা হবে।\n\n\nএক্সপ্লোর করুন\n\n\nTutorials\nবাংলায় Python ও Data Science-এর ভিত্তি এবং তাত্ত্বিক ব্যাখ্যার টিউটোরিয়াল।\n\n\nProjects\nবাস্তব ডেটাসেটের উপর ভিত্তি করে তৈরি ডেটা অ্যানালিটিক্স ও মেশিন লার্নিং কেস স্টাডি।\n\n\nNotebook Lab\nইন্টারঅ্যাক্টিভ Jupyter Notebooks (.ipynb) — সরাসরি Google Colab এবং GitHub-এ দেখার সুবিধা সহ।\n\n\nAbout Me\nআমার একাডেমিক ব্যাকগ্রাউন্ড, টেকনিক্যাল জার্নি এবং শেখার দর্শন সম্পর্কে জানুন।"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "এখানে বাস্তব ডেটাসেটের উপর ভিত্তি করে তৈরি এন্ড-টু-এন্ড ডেটা অ্যানালিটিক্স, প্রেডিক্টিভ মডেলিং এবং মেশিন লার্নিং প্রজেক্টের বিস্তারিত কেস স্টাডি প্রকাশ করা হবে। প্রতিটি কেস স্টাডিতে সমস্যা নির্ধারণ (Problem Formulation), এক্সপ্লোরেটরি ডেটা অ্যানালিসিস (EDA), ফিচার ইঞ্জিনিয়ারিং, মডেল ট্রেনিং ও ইভ্যালুয়েশন বিস্তারিতভাবে ব্যাখ্যা থাকবে।"
+  },
+  {
+    "objectID": "projects/index.html#ভমক",
+    "href": "projects/index.html#ভমক",
+    "title": "Projects",
+    "section": "",
+    "text": "এখানে বাস্তব ডেটাসেটের উপর ভিত্তি করে তৈরি এন্ড-টু-এন্ড ডেটা অ্যানালিটিক্স, প্রেডিক্টিভ মডেলিং এবং মেশিন লার্নিং প্রজেক্টের বিস্তারিত কেস স্টাডি প্রকাশ করা হবে। প্রতিটি কেস স্টাডিতে সমস্যা নির্ধারণ (Problem Formulation), এক্সপ্লোরেটরি ডেটা অ্যানালিসিস (EDA), ফিচার ইঞ্জিনিয়ারিং, মডেল ট্রেনিং ও ইভ্যালুয়েশন বিস্তারিতভাবে ব্যাখ্যা থাকবে।"
+  },
+  {
+    "objectID": "projects/index.html#পরজকট-কযটগর",
+    "href": "projects/index.html#পরজকট-কযটগর",
+    "title": "Projects",
+    "section": "প্রজেক্ট ক্যাটাগরি",
+    "text": "প্রজেক্ট ক্যাটাগরি\n\nExploratory Data Analysis (EDA): বাস্তব ব্যবসায়িক ও ডোমেন ডেটাসেটের অ্যানালিসিস\nSupervised Learning: রিগ্রেশন এবং ক্লাসিফিকেশন পাইপলাইন\nDeep Learning Applications: কম্পিউটার ভিশন ও এনএলপি বেসলাইন মডেল\n\n\n\n\n\n\n\nNoteডেভেলপমেন্ট স্ট্যাটাস\n\n\n\nনতুন প্রজেক্টগুলোর ডেটা পাইপলাইন এবং ডকুমেন্টেশন তৈরির কাজ চলছে। ভেরিফাইড ফলাফল ও সম্পূর্ণ সোর্স কোড সহ প্রথম কেস স্টাডিটি শীঘ্রই এখানে প্রকাশিত হবে।"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "এখানে Python প্রোগ্রামিং, SQL, ডেটা অ্যানালিটিক্স, স্ট্যাটিস্টিক্স এবং মেশিন লার্নিং সম্পর্কিত হ্যান্ডস-অন টিউটোরিয়াল প্রকাশ করা হবে। প্রতিটি টিউটোরিয়ালের মূল লক্ষ্য থাকবে কনসেপ্টগুলোর পেছনের গণিত ও লজিক সহজ বাংলায় ব্যাখ্যা করা এবং ব্যবহারিক কোড উদাহরণের মাধ্যমে তা প্রয়োগ করে দেখানো।"
+  },
+  {
+    "objectID": "tutorials/index.html#ভমক",
+    "href": "tutorials/index.html#ভমক",
+    "title": "Tutorials",
+    "section": "",
+    "text": "এখানে Python প্রোগ্রামিং, SQL, ডেটা অ্যানালিটিক্স, স্ট্যাটিস্টিক্স এবং মেশিন লার্নিং সম্পর্কিত হ্যান্ডস-অন টিউটোরিয়াল প্রকাশ করা হবে। প্রতিটি টিউটোরিয়ালের মূল লক্ষ্য থাকবে কনসেপ্টগুলোর পেছনের গণিত ও লজিক সহজ বাংলায় ব্যাখ্যা করা এবং ব্যবহারিক কোড উদাহরণের মাধ্যমে তা প্রয়োগ করে দেখানো।"
+  },
+  {
+    "objectID": "tutorials/index.html#আসনন-বষযসমহ",
+    "href": "tutorials/index.html#আসনন-বষযসমহ",
+    "title": "Tutorials",
+    "section": "আসন্ন বিষয়সমূহ",
+    "text": "আসন্ন বিষয়সমূহ\n\nPython Foundations: ভেরিয়েবল, ডেটা স্ট্রাকচার, ফাংশন, অবজেক্ট-ওরিয়েন্টেড প্রোগ্রামিং (OOP)\nData Manipulation: NumPy এবং Pandas দিয়ে ডেটা প্রসেসিং ও ক্লিনিং\nData Visualization: Matplotlib এবং Seaborn দিয়ে ডেটা ভিজ্যুয়ালাইজেশন\nApplied Statistics: ডেসক্রিপ্টিভ ও ইনফারেনশিয়াল স্ট্যাটিস্টিক্স\nMachine Learning: সুপারভাইজড এবং আনসুপারভাইজড লার্নিং অ্যালগরিদম\n\n\n\n\n\n\n\nNoteপ্রস্তুতি পর্ব\n\n\n\nটিউটোরিয়ালগুলো বর্তমানে প্রস্তুতি ও রিভিউ পর্যায়ে রয়েছে। প্রথম পর্বগুলো খুব শীঘ্রই এখানে ক্রমানুসারে যুক্ত করা হবে।"
+  }
+]

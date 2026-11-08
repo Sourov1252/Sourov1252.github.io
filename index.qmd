@@ -1,0 +1,38 @@
+---
+title: "Sourov.dev"
+subtitle: "Learn. Build. Document. Share."
+---
+
+::: {.lead}
+স্বাগতম **Sourov.dev**-এ। এটি একটি ব্যক্তিগত পোর্টফোলিও এবং বাংলা টেকনিক্যাল লার্নিং প্ল্যাটফর্ম।
+:::
+
+এখানে Python প্রোগ্রামিং, SQL, Data Analytics, Statistics, Machine Learning এবং Deep Learning সম্পর্কিত বাস্তব প্রজেক্ট, টিউটোরিয়াল ও হ্যান্ডস-অন Jupyter Notebook নিয়মিত ডকুমেন্ট ও শেয়ার করা হবে।
+
+---
+
+### এক্সপ্লোর করুন
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+#### [Tutorials](tutorials/index.qmd)
+বাংলায় Python ও Data Science-এর ভিত্তি এবং তাত্ত্বিক ব্যাখ্যার টিউটোরিয়াল।
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### [Projects](projects/index.qmd)
+বাস্তব ডেটাসেটের উপর ভিত্তি করে তৈরি ডেটা অ্যানালিটিক্স ও মেশিন লার্নিং কেস স্টাডি।
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### [Notebook Lab](notebooks/index.qmd)
+ইন্টারঅ্যাক্টিভ Jupyter Notebooks (`.ipynb`) — সরাসরি Google Colab এবং GitHub-এ দেখার সুবিধা সহ।
+:::
+
+::: {.g-col-12 .g-col-md-6}
+#### [About Me](about.qmd)
+আমার একাডেমিক ব্যাকগ্রাউন্ড, টেকনিক্যাল জার্নি এবং শেখার দর্শন সম্পর্কে জানুন।
+:::
+
+:::
